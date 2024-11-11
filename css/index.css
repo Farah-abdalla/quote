@@ -1,0 +1,33 @@
+body{
+    overflow: hidden;
+}
+.quote{
+    background-color: #405D72;
+}
+.quote .info-quote h1{
+ font-size:60px ;
+ font-weight:900 ;
+ margin-block: 30px;
+ color:#F7E7DC;
+}
+.quote .info-quote button{
+    width:150px ;
+    height: 50px;
+    border-radius: 3px;
+    border: transparent solid 1px;
+    color: white;
+    background-color:#6295A2;
+}
+.quote .info-quote button:hover{
+    background-color:#80B9AD;
+}
+.quote .info-quote p{
+    color:#F7E7DC;
+    font-size: 20px;
+    
+}
+.quote .info-quote .inner-quote{
+    color:#F7E7DC;
+    margin-top: 20px;
+    font-size: 20px;
+}
